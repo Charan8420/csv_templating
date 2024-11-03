@@ -1,0 +1,3 @@
+SELECT * FROM all_table_cols WHERE owner = 'Paul' AND table_name = 'Dining Table'
+SELECT * FROM all_table_cols WHERE owner = 'Paul' AND table_name = 'Study Table'
+SELECT * FROM all_table_cols WHERE owner = 'Amy' AND table_name = 'Round Table'

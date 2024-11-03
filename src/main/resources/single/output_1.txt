@@ -1,0 +1,1 @@
+SELECT * FROM all_table_cols WHERE owner = 'Paul' AND table_name = 'Study Table'

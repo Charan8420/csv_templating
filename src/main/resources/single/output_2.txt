@@ -1,0 +1,1 @@
+SELECT * FROM all_table_cols WHERE owner = 'Amy' AND table_name = 'Round Table'
